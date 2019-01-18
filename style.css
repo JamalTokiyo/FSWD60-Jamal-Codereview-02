@@ -1,0 +1,28 @@
+#container{
+		width: 100%;
+		background-color: #ccc;
+		float: left;
+	}
+
+	#container #header_container{
+		width: 100%;
+		
+		float: left;
+	}
+
+	#container #header_container #logo{
+		width: 50%;
+		
+		float: left;
+		
+		
+	 }
+
+	 	#container #header_container #text{
+		width: 50%;
+		
+		float: right;
+		
+		
+	 }
+	 
