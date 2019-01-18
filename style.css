@@ -1,28 +1,52 @@
 #container{
 		width: 100%;
-		background-color: #ccc;
 		float: left;
+		
 	}
 
 	#container #header_container{
 		width: 100%;
-		
 		float: left;
 	}
 
-	#container #header_container #logo{
-		width: 50%;
+	 #header_container  {
 		
-		float: left;
+		background-color: #581113;
 		
+		
+		
+	 }
+	 #container #header_container #banner1 img  {
+		
+		margin-left: 10px;
+		margin-top: 20px;
+
 		
 	 }
 
-	 	#container #header_container #text{
-		width: 50%;
-		
-		float: right;
+	 	#container #header_container  #banner2 img  {
+		width: 60%;
+		margin-left: 30%;
+		height: 60px;
 		
 		
 	 }
-	 
+	   #nav {
+	 	
+	 	list-style: none;
+
+	 	
+	 	
+	 }
+	 #nav li{
+	 	display: flex;
+	 	float: left;
+	 	padding: 10px;
+	 	background-color: black;
+	 	margin-left: 0px;
+
+	 }
+	 #nav li a {
+	 	text-decoration: none;
+	 	color: white;
+	 }
