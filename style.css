@@ -3,50 +3,153 @@
 		float: left;
 		
 	}
+#banner1 {
+	
+	border: 2px solid green;
+	background-color: #5B1213;
 
-	#container #header_container{
-		width: 100%;
-		float: left;
-	}
+}
+#banner1 img {
+ width: 300px;
+ margin: 10px 12px;
 
-	 #header_container  {
-		
-		background-color: #581113;
-		
-		
-		
-	 }
-	 #container #header_container #banner1 img  {
-		
-		margin-left: 10px;
-		margin-top: 20px;
+}
+ 
+	
+ #nav ul {
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
 
-		
-	 }
+}
+   li{
 
-	 	#container #header_container  #banner2 img  {
-		width: 60%;
-		margin-left: 30%;
-		height: 60px;
-		
-		
-	 }
-	   #nav {
-	 	
-	 	list-style: none;
+	float: left;
 
-	 	
-	 	
-	 }
-	 #nav li{
-	 	display: flex;
-	 	float: left;
-	 	padding: 10px;
-	 	background-color: black;
-	 	margin-left: 0px;
+	
+}
+   li a {
+ display: block;
+  color: white;
+  text-align: center;
+  padding: 8px 10px;
+  text-decoration: none;
 
-	 }
-	 #nav li a {
-	 	text-decoration: none;
-	 	color: white;
-	 }
+ 
+}
+#date {
+	border: 1px solid green;
+	width: 100%;
+
+}
+#news {
+	border: 2px solid  green;
+	width: 200px;
+	background-color: #ccc;
+	height: 40px;
+	margin: 0px;
+	padding: 0px;
+
+ }
+ 
+ 
+ #nasa {
+ 	width: 300px;
+ 	float: left;
+ 	margin: 10px;
+ 	height: 200px;
+ 	
+ }
+ #eu {
+ 	width: 300px;
+ 	float: left;
+ 	margin: 10px;
+ 	height: 200px;
+ 	
+ }
+ #jeff {
+ 	width: 300px;
+    float: left;
+ 	margin: 10px;
+ 	height: 200px;
+ 	
+ }
+ #fswd {
+ 	width: 200px;
+ 	float: left;
+ 	margin: 10px;
+ 	height: 400px;
+ 	}
+ 
+ 
+  #nasa img {
+ 	height: 200px;
+ 	width: 300px;
+ }
+ #eu img {
+ 	height: 200px;
+ 	width:  300px;
+ }
+ #jeff img{
+ 	height: 200px;
+ 	width: 300px;
+ }
+ #fswd img {
+ 	height: 450px;
+ 	width: 130px;
+ }
+ #popular { 
+ 	background-color: #ccc;
+ 	font-size: 20px;
+ 	border: 2px solid green;
+ 	width: 300px;
+ 	
+ }
+ #polor {
+ 	width: 300px;
+ 	float: left;
+ 	margin: 10px;
+ 	height: 200px;
+ 	
+ }
+ 
+ 
+ #musk {
+ 	width: 300px;
+ 	float: left;
+ 	margin: 10px;
+ 	height: 200px;
+ 	
+ }
+ #snowden {
+ 	width: 300px;
+ 	float: left;
+ 	margin: 10px;
+ 	height: 200px;
+ }
+ 	
+ #polor img{
+ 	height: 200px;
+ 	width: 300px;
+ }
+ #musk img{
+ 	height: 200px;
+ 	width: 300px;
+ }
+ #snowden img{
+ 	height: 200px;
+ 	width: 300px;
+ }
+
+ 
+ 	#right {
+ 		
+ 		border: 1px solid green;
+
+ 	}
+ 	
+ 	
+
+ 
